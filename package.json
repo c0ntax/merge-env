@@ -4,7 +4,7 @@
   "description": "A simple cli to merge existing environment variables into a template",
   "main": "bin/merge-env-cli.js",
   "bin": {
-    "merge-env-cli": "./bin/merge-env-cli.js"
+    "merge-env": "./bin/merge-env-cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
