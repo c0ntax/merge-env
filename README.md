@@ -2,7 +2,13 @@
 
 A simple script to take an existing dotenv file and dump existing env files into it
 
-# Usage
+## Install
+
+```bash
+npm install -g merge-env-cli
+```
+
+## Usage
 
 ```bash
 env | merge-env-cli ./path/to/.env.template > .env
