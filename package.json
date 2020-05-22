@@ -1,0 +1,27 @@
+{
+  "name": "merge-env-cli",
+  "version": "1.0.0",
+  "description": "A simple cli to merge existing environment variables into a template",
+  "main": "bin/merge-env-cli.js",
+  "bin": {
+    "merge-env-cli": "./bin/merge-env-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//c0ntax/merge-env-cli.git"
+  },
+  "keywords": [
+    "dotenv",
+    "env",
+    "environment",
+    "cli"
+  ],
+  "author": "Dan Burzynski",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "quote-unquote": "^1.0.0"
+  }
+}
