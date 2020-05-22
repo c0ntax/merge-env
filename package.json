@@ -1,6 +1,6 @@
 {
   "name": "merge-env-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple cli to merge existing environment variables into a template",
   "main": "bin/merge-env-cli.js",
   "bin": {
